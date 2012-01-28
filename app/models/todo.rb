@@ -1,2 +1,2 @@
-class <%= name %> < ActiveRecord::Base
+class Todo < ActiveRecord::Base
 end
