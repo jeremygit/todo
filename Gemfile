@@ -24,6 +24,7 @@ gem 'guard'
 gem 'kaminari'
 
 group :development, :test do
+  gem 'ruby_gntp'
   gem 'ruby-debug19', :require => 'ruby-debug'
   gem "rspec"
   gem 'rspec-rails'
